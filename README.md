@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Vin
+- 👋 Hi, I’m Alex 
 - 👀 I’m interested in crypto
 - 🌱 I’m currently making #1 decentralized stablecoin
 - 📫 alex@diffstake.com
